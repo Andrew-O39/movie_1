@@ -15,7 +15,7 @@ def main():
         "12 Angry Men": 9.9,
         "Everything Everywhere All At Once": 8.9,
         "Forrest Gump": 8.8,
-        "Star Wars: Episode V": 8.7
+        "Star Wars: Episode V": 0.0
     }
 
     while True:
