@@ -6,7 +6,7 @@ def main():
 
     # Dictionary to store the movies and their ratings
     movies = {
-        "The Shawshank Redemption": 9.5,
+        "The Shawshank Redemption": 9.0,
         "Pulp Fiction": 10.0,
         "The Room": 6.6,
         "The Godfather": 9.2,
